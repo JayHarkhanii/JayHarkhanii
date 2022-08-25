@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Location-Los%20Angeles,%20California-1da1f3.svg?color=green&logo=google-maps" alt="Location" />
   </a>
 
-  <a href="https://leetcode.com/JayH_1611/">
+  <a href="https://leetcode.com/JayH_1611/" target="_blank">
     <img src="https://cp-logo.vercel.app/leetcode/JayH_1611" alt="Leetcode rating" />
   </a>
 
