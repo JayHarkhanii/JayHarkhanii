@@ -219,12 +219,12 @@
     </a>    
 </p>
 
-### Demo
-Here are some of the projects that I have recently worked on:
+## Demo
+Here are a couple of projects that I have recently worked on:
 1. Virtual Stock Trading (Add a working link of the website and some description)
 2. Shuriken Strike (Add game link and a short description)
 
-### Competitive Programming
+## Competitive Programming
 <p float="left">
 <img height="300em" src="https://leetcard.jacoblin.cool/JayH_1611?theme=light&font=Karma&ext=contest" />
 </p>
