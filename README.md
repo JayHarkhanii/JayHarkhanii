@@ -243,7 +243,7 @@ Great! Please connect with me
     </a>
 </p>
 
-If you are interested more in my previous adventures please feel free to scroll down for my work experiences.
+If you are interested in my previous adventures please feel free to scroll down for my work experiences.
 
 ## Experience
 
