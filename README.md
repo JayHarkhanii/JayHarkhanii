@@ -221,8 +221,8 @@
 
 ## Demo
 Here are a couple of projects that I have recently worked on:
-1. Virtual Stock Trading (Add a working link of the website and some description)
-2. Shuriken Strike (Add game link and a short description)
+1. [Virtual Stock Trading](https://client-dot-assignment-8-346123.wl.r.appspot.com/stocksearch/home) is a [website](https://github.com/JayHarkhanii/Virtual-Stock-Trading-Web-App) that leverages [FinnHub](https://finnhub.io/) APIs to provide an immersive experience to the user to trade stocks using a virtual portfolio of **$25000**. I have also built an [Android Application](https://github.com/JayHarkhanii/Virtual-Stock-Trading-Android-App) with some extra features such as **Auto-Refresh** stock price every **15 seconds** and **Swipe to Delete** stocks from the Watchlist section.
+2. [Shuriken Strike](https://sharktank.itch.io/shurican-strike)
 
 ## Competitive Programming
 <p float="left">
