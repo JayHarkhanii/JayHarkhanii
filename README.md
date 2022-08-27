@@ -251,53 +251,35 @@ If you are interested in my previous adventures please feel free to scroll down 
 
 *May 2022 - August 2022*
 
-Certified with [Microsoft Azure Fundamentals](https://www.credly.com/badges/3b2a5a42-c36b-4af5-97a0-3f71798996f5/public_url). Lead Developer of [Double-entry Bookkeeping API](https://en.wikipedia.org/wiki/Double-entry_bookkeeping) in Go. Integrations with customers REST APIs. Replaced outdated and inefficient [Elixir](https://elixir-lang.org/) services with highly efficient and easy to change implementations in Go.
-
-* [Go](https://golang.org/) with [Echo](https://echo.labstack.com/) router for REST APIs.
-* [PostgreSQL](https://www.postgresql.org/) for storage and message queue.
-* [Microsoft Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) for real-time event processing with sharding.
-* [Microsoft Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), [Ansible](https://www.ansible.com/), [RPM](https://rpm.org/index.html) and [Docker](https://www.docker.com/) for CI and CD.
-* [Nagios](https://www.nagios.org/), [Grafana](https://grafana.com/) and [Splunk](https://www.splunk.com/) for monitoring and logs.
-* [HAProxy](http://www.haproxy.org/) for high availability load balancer.
+* Implemented **Short Codes feature** in Global Resource Routing(GRR) Service which will help company’s customers and downstream services to configure/manage Short Code Resource in one of the [AWS available region](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/) directly from Twilio console.
+* Added **Unit and Integration Tests** using [Junit](https://junit.org/junit5/) and [Mockito](https://site.mockito.org/).
+* Updated [JMeter](https://jmeter.apache.org/) script to enhance **Load Test configurability** by enabling/disabling tests on a per-endpoint basis.
+* Modified [Jenkins pipeline](https://www.jenkins.io/) to run load tests with user-defined throughput values for each API and evaluate its metrics such as **RPS, latency, cache hit, etc** in [Datadog](https://www.datadoghq.com/) dashboard.
 
 
 ### Data Analyst Intern at [The Shaadi Times](#)
 
 *May 2020 - June 2020*
 
-Certified with [Microsoft Azure Fundamentals](https://www.credly.com/badges/3b2a5a42-c36b-4af5-97a0-3f71798996f5/public_url). Lead Developer of [Double-entry Bookkeeping API](https://en.wikipedia.org/wiki/Double-entry_bookkeeping) in Go. Integrations with customers REST APIs. Replaced outdated and inefficient [Elixir](https://elixir-lang.org/) services with highly efficient and easy to change implementations in Go.
-
-* [Go](https://golang.org/) with [Echo](https://echo.labstack.com/) router for REST APIs.
-* [PostgreSQL](https://www.postgresql.org/) for storage and message queue.
-* [Microsoft Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) for real-time event processing with sharding.
-* [Microsoft Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), [Ansible](https://www.ansible.com/), [RPM](https://rpm.org/index.html) and [Docker](https://www.docker.com/) for CI and CD.
-* [Nagios](https://www.nagios.org/), [Grafana](https://grafana.com/) and [Splunk](https://www.splunk.com/) for monitoring and logs.
-* [HAProxy](http://www.haproxy.org/) for high availability load balancer.
+* Led in requirement gathering and collecting data about growth in Online Education Market due to covid-19 through [Web Scraping](https://beautiful-soup-4.readthedocs.io/en/latest/) and interacting with stakeholders in the Education Industry.
+* Implemented **Python scripts** for server setups, data storage, and executing queries on data.
+* Created [Tableau Dashboard](https://www.tableau.com/learn/get-started/dashboards) and Reports to reduce time taken for making data-driven business decisions.
 
 
 ### Software Engineer Intern at [Tata Consultancy Services(TCS)](https://www.tcs.com/) <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/TATA_Consultancy_Services_Logo_blue.svg" width="140px" height="85px" align="right" alt="logo">
 
 *December 2019 - February 2020*
 
-Certified with [Microsoft Azure Fundamentals](https://www.credly.com/badges/3b2a5a42-c36b-4af5-97a0-3f71798996f5/public_url). Lead Developer of [Double-entry Bookkeeping API](https://en.wikipedia.org/wiki/Double-entry_bookkeeping) in Go. Integrations with customers REST APIs. Replaced outdated and inefficient [Elixir](https://elixir-lang.org/) services with highly efficient and easy to change implementations in Go.
-
-* [Go](https://golang.org/) with [Echo](https://echo.labstack.com/) router for REST APIs.
-* [PostgreSQL](https://www.postgresql.org/) for storage and message queue.
-* [Microsoft Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) for real-time event processing with sharding.
-* [Microsoft Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), [Ansible](https://www.ansible.com/), [RPM](https://rpm.org/index.html) and [Docker](https://www.docker.com/) for CI and CD.
-* [Nagios](https://www.nagios.org/), [Grafana](https://grafana.com/) and [Splunk](https://www.splunk.com/) for monitoring and logs.
-* [HAProxy](http://www.haproxy.org/) for high availability load balancer.
+* Processed data of more than **7000** customers of telecommunication company to remove redundancy and inconsistency.
+* Led a team of **4** to construct a **Machine Learning model** with an accuracy of **90%** to predict Customer Churn.
+* Built a **Customer Segmentation Tool** for Marketing Team to boost customer retention rate and company profitability.
+* Used [Seaborn](https://seaborn.pydata.org/) library to visualize customers' data based on demographics and other factors to support the Sales Team.
 
 
 ### Software Engineer Intern at [Nautilus Hearing Solutions](https://www.nautilushearing.com/) <img src="https://www.nautilushearing.com/assets/images/logo_new.jpg" width="140px" height="85px" align="right" alt="logo">
 
 *August 2019 - September 2019*
 
-Certified with [Microsoft Azure Fundamentals](https://www.credly.com/badges/3b2a5a42-c36b-4af5-97a0-3f71798996f5/public_url). Lead Developer of [Double-entry Bookkeeping API](https://en.wikipedia.org/wiki/Double-entry_bookkeeping) in Go. Integrations with customers REST APIs. Replaced outdated and inefficient [Elixir](https://elixir-lang.org/) services with highly efficient and easy to change implementations in Go.
-
-* [Go](https://golang.org/) with [Echo](https://echo.labstack.com/) router for REST APIs.
-* [PostgreSQL](https://www.postgresql.org/) for storage and message queue.
-* [Microsoft Azure Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/) for real-time event processing with sharding.
-* [Microsoft Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/), [Ansible](https://www.ansible.com/), [RPM](https://rpm.org/index.html) and [Docker](https://www.docker.com/) for CI and CD.
-* [Nagios](https://www.nagios.org/), [Grafana](https://grafana.com/) and [Splunk](https://www.splunk.com/) for monitoring and logs.
-* [HAProxy](http://www.haproxy.org/) for high availability load balancer.
+* Built a website using [PHP](https://www.php.net/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) to increase the company's digital reach by making its hearing aid products accessible.
+* Optimized **Front-end code and SQL queries** to reduce page load time to **8 seconds** thereby enhancing website’s performance.
+* Created an **Admin Panel** to manage or post new content on the website and act on messages received from clients.
