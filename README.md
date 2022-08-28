@@ -62,7 +62,7 @@
     </a>      
     &nbsp;
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="70" height="70"/> 
+        <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="70" height="70"/> 
     </a>      
     &nbsp;
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
