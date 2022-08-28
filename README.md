@@ -207,7 +207,7 @@
     </a>   
     &nbsp;
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="70" height="70"/> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="90" height="70"/> 
     </a>
     &nbsp;
     <a href="https://jmeter.apache.org/" target="_blank" rel="noreferrer"> 
