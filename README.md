@@ -221,8 +221,13 @@
 
 ## Demo
 Here are a couple of projects that I have recently worked on:
-1. [Virtual Stock Trading](https://client-dot-assignment-8-346123.wl.r.appspot.com/stocksearch/home) is a [website](https://github.com/JayHarkhanii/Virtual-Stock-Trading-Web-App) that leverages [FinnHub](https://finnhub.io/) APIs to provide an immersive experience to the user to trade stocks using a virtual portfolio of **$25000**. I have also built an [Android Application](https://github.com/JayHarkhanii/Virtual-Stock-Trading-Android-App) with some extra features such as **Auto-Refresh** that updates share price every **15 seconds** and **Swipe to Delete** that removes company's ticker from the Watchlist section.
-2. [Shuriken Strike](https://sharktank.itch.io/shurican-strike)
+
+1. [Virtual Stock Trading](https://client-dot-assignment-8-346123.wl.r.appspot.com/stocksearch/home) is a [website](https://github.com/JayHarkhanii/Virtual-Stock-Trading-Web-App) that leverages [FinnHub](https://finnhub.io/) APIs to provide an immersive experience for the user to trade stocks using a virtual portfolio of **$25000**. I have also built an [Android Application](https://github.com/JayHarkhanii/Virtual-Stock-Trading-Android-App) with extra features such as **Auto-Refresh** that updates share price every **15 seconds** and **Swipe to Delete** that removes company's ticker from the Watchlist section.
+
+2. [Shuriken Strike](https://sharktank.itch.io/shurican-strike) is a Ninja-themed game developed with [Unity](https://unity.com/) where players need to kill enemies using [Shuriken](https://en.wikipedia.org/wiki/Shuriken) as a weapon to complete **nine** challenging yet exciting levels.
+
+3. [DNA Sequence Alignment](https://github.com/JayHarkhanii/DNA-Sequence-Alignment) is one of the fundamental problems of Biological Sciences, aimed at finding the similarity between two amino-acid sequences. I have implemented a **Space-Efficient Algorithm** in [this](https://github.com/JayHarkhanii/DNA-Sequence-Alignment) project using **Divide & Conquer and Dynamic Programming.** This solution drastically reduces the storage space required to solve the DNA sequencing problem of the human genome, which is **6.4 billion(base pairs) long.**
+
 
 ## Competitive Programming
 <p float="left">
