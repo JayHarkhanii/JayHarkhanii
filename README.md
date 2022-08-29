@@ -24,7 +24,7 @@
 ### Bio
 
 - 🏫 Graduate Student at **University of Southern California** (expected graduation: May 2023)
-- 🌍 Industry Experience of working on **large-scale customer-centric** web services and applications.
+- 🌍 Industry Experience in working on **large-scale customer-centric** web services and applications.
 - 🌱 Learning more about **Software Development** and **DevOps**
 - 📝 Checkout my [Resume](files/resume.pdf).
 
@@ -256,7 +256,7 @@ If you are interested in my previous adventures please feel free to scroll down 
 
 *May 2022 - August 2022*
 
-* Implemented **Short Codes feature** in Global Resource Routing(GRR) Service which will help company’s customers and downstream services to configure/manage Short Code Resource in one of the [AWS available region](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/) directly from Twilio console.
+* Implemented **Short Codes feature** in Global Resource Routing(GRR) Service, which will help company’s customers and downstream services to configure/manage Short Code Resource in one of the [AWS available region](https://aws.amazon.com/about-aws/global-infrastructure/regions_az/) directly from Twilio console.
 * Added **Unit and Integration Tests** using [Junit](https://junit.org/junit5/) and [Mockito](https://site.mockito.org/).
 * Updated [JMeter](https://jmeter.apache.org/) script to enhance **Load Test configurability** by enabling/disabling tests on a per-endpoint basis.
 * Modified [Jenkins pipeline](https://www.jenkins.io/) to run load tests with user-defined throughput values for each API and evaluate its metrics such as **RPS, latency, cache hit, etc** in [Datadog](https://www.datadoghq.com/) dashboard.
@@ -275,7 +275,7 @@ If you are interested in my previous adventures please feel free to scroll down 
 
 *December 2019 - February 2020*
 
-* Processed data of more than **7000** customers of telecommunication company to remove redundancy and inconsistency.
+* Processed data of more than **7000** customers of a telecommunication company to remove redundancy and inconsistency.
 * Led a team of **4** to construct a **Machine Learning model** with an accuracy of **90%** to predict Customer Churn.
 * Built a **Customer Segmentation Tool** for Marketing Team to boost customer retention rate and company profitability.
 * Used [Seaborn](https://seaborn.pydata.org/) library to visualize customers' data based on demographics and other factors to support the Sales Team.
@@ -286,5 +286,5 @@ If you are interested in my previous adventures please feel free to scroll down 
 *August 2019 - September 2019*
 
 * Built a website using [PHP](https://www.php.net/) and [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) to increase the company's digital reach by making its hearing aid products accessible.
-* Optimized **Front-end code and SQL queries** to reduce page load time to **8 seconds** thereby enhancing website’s performance.
+* Optimized **Front-end code and SQL queries** to reduce page load time to **8 seconds,** thereby enhancing website’s performance.
 * Created an **Admin Panel** to manage or post new content on the website and act on messages received from clients.
