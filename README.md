@@ -188,8 +188,11 @@
     &nbsp;
 </p>
 
-### Tools
+### Certification & Tools
 <p align="left"> 
+    <a href="https://www.credly.com/badges/0dfa421e-5fce-4970-989c-0f1130f06e32/" target="_blank" rel="noreferrer"> 
+        <img src="files/badges/aws-cloud-practitioner.png" alt="aws cloud practitioner badge" width="70" height="70"/> 
+    </a>  
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
     </a>      
